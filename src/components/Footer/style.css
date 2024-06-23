@@ -1,0 +1,49 @@
+footer {
+  padding: 20px 0;
+  color: #fff; /* Set text color to white */
+}
+
+footer .box {
+  padding: 0 20px;
+}
+
+footer h1 {
+  margin: 0;
+  font-size: 25px;
+  font-weight: 800;
+}
+
+footer .logo {
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 10px; /* Adjusted margin */
+  margin-right: auto; /* Align logo to the left */
+}
+
+footer h2 {
+  font-size: 20px;
+  margin-bottom: 10px; /* Adjusted margin */
+  text-align: left; /* Align text to the left */
+  color: white; /* Set text color to white */
+}
+
+footer p {
+  font-size: 17px;
+  margin-bottom: 10px; /* Adjusted margin */
+  opacity: 0.5;
+  text-align: left; /* Align text to the left */
+  color: white; /* Set text color to white */
+}
+
+footer ul {
+  padding: 0;
+  text-align: left; /* Align text to the left */
+  color: white; /* Set text color to white */
+}
+
+footer li {
+  margin-bottom: 10px; /* Adjusted margin */
+  opacity: 1;
+}
